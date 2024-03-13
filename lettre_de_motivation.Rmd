@@ -1,0 +1,45 @@
+---
+title: "A letter of motivation for director of ANSD"
+author: "Samba Dieng"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+
+::: from
+Samba Dieng
+Dakar Senegal 
+Colobane, 1190B  
+Email: sambadiengys122003@gmail.com
+
+:::
+
+
+ANSD 
+Colobane, Cerf-Volant, Rocade  
+A l’attention du Directeur Général
+
+::: date
+Dakar, le 13 mars 2024
+:::
+
+Objet: Demande de Stage
+
+Monsieur le Directeur Général,
+
+Je suis actuellement étudiante en 2e année de formation en filière ISEP, et je me permets de vous adresser cette correspondance afin de solliciter un stage d'immersion d'une durée de 8 semaines, entre juillet et septembre, au sein de vos services.
+
+Je tiens à vous informer que ce stage est une exigence de notre programme de formation, nous imposant d'effectuer un stage obligatoire dans une structure relevant du domaine de la statistique. C'est cette exigence qui motive ma demande. Ce stage me permettra de rédiger un rapport dont la note de soutenance aura un impact significatif sur mon évaluation finale.
+
+Par ailleurs, je suis convaincue que ce stage représente une opportunité précieuse pour mettre en pratique les connaissances théoriques acquises à l'école. Il me permettra également de mieux appréhender les mécanismes de communication au sein d'une entreprise, ainsi que de développer mes compétences en travail d'équipe au sein de vos équipes.
+
+Dans l'espoir que ma demande soit traitée avec diligence et dans l'attente d'une réponse favorable de votre part, je vous prie d'accepter, Monsieur le Directeur Général, l'expression de ma profonde gratitude.
+
+Cordialement,
+Signature
+S. D.
